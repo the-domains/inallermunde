@@ -1,0 +1,28 @@
+name: inallermunde
+favicon: null
+layout_spectrum: 0.8913326822221279
+typography_spectrum: 0.3567647566087544
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1502002403140068
+  lightness: 0.562659258255735
+  saturation: 0.39261258160695434
+  rhythmicContrast: 0.2946125359740108
+purpose: []
